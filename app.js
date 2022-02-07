@@ -1,3 +1,4 @@
-var greet = require("./greet.js")
-greet();
-console.log(greet);
+var greet = require("./greet")
+greet.english();
+greet.spanish();
+//console.log(greet);
