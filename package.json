@@ -1,0 +1,25 @@
+{
+  "name": "understand-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parth0105pluang/understand-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parth0105pluang/understand-nodejs/issues"
+  },
+  "homepage": "https://github.com/parth0105pluang/understand-nodejs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "moment": "^2.29.1"
+  }
+}
